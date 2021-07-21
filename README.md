@@ -1,18 +1,33 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Palindrome
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+[![sfdcdreamer.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://sfdcdreamer/)
 
-## How Do You Plan to Deploy Your Changes?
+A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar. There might a lot of resources out in the web to determine if a string is palindrome using Javasript, C#, Java and other programming languages. I took a step-back and thought of sharing the code in Apex to help.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+Single Word Palindrome:
+<ul>
+<li>Anna</li>
+<li>Civic</li>
+<li>Kayak</li>
+<li>Level</li>
+<li>Madam</li>
+</ul>
 
-## Configure Your Salesforce DX Project
+Multiple Word Palindrome:
+<ul>
+<li>Don't nod.</li>
+<li>I did, did I?</li>
+<li>My gym</li>
+<li>Red rum, sir, is murder</li>
+<li>Step on no pets</li>
+</ul>
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+![76677518-palindrome_page-0001_copy-w](https://user-images.githubusercontent.com/11839381/126465357-c2eb032a-80b7-4c26-825e-6f2035027260.jpg)
 
-## Read All About It
+### Version
+1.0
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## Related resources
+https://en.wikipedia.org/wiki/Palindrome
+
+https://examples.yourdictionary.com/palindrome-examples.html
